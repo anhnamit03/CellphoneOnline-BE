@@ -19,16 +19,8 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p dir="auto">2 : Open this project in visual studio 2022 and Change the connection strings:</p>
-<ul dir="auto">
-<li>Change connecttion string in files :</li>
-</ul>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236822288-f75a745b-44a1-4cc9-a3c7-ecbe92aa84ee.png"><img width="902" alt="image" src="https://user-images.githubusercontent.com/89650460/236822288-f75a745b-44a1-4cc9-a3c7-ecbe92aa84ee.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236822820-2c3783c1-c8bd-4071-9e98-eb712bce8ab8.png"><img width="811" alt="image" src="https://user-images.githubusercontent.com/89650460/236822820-2c3783c1-c8bd-4071-9e98-eb712bce8ab8.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236822896-dd575cdc-b9bf-4b4d-99e3-7c7b4b4ac300.png"><img width="835" alt="image" src="https://user-images.githubusercontent.com/89650460/236822896-dd575cdc-b9bf-4b4d-99e3-7c7b4b4ac300.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236822939-e90f88db-50eb-4eb9-a9cf-31afc9182882.png"><img width="845" alt="image" src="https://user-images.githubusercontent.com/89650460/236822939-e90f88db-50eb-4eb9-a9cf-31afc9182882.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236823185-4ed7dc9d-e9db-4265-a0bd-fe9bb5dd1fad.png"><img width="855" alt="image" src="https://user-images.githubusercontent.com/89650460/236823185-4ed7dc9d-e9db-4265-a0bd-fe9bb5dd1fad.png" style="max-width: 100%;"></a></p>
-<p dir="auto">3 : Run project</p>
+
+<p dir="auto">2 : Run project</p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Preview</h1><a id="user-content-preview" class="anchor" aria-label="Permalink: Preview" href="#preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">The Swagger interface provides various APIs.</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/89650460/236827980-9ddd96a5-0de6-4d5d-80a1-efafd7e9888f.png"><img width="948" alt="image" src="https://user-images.githubusercontent.com/89650460/236827980-9ddd96a5-0de6-4d5d-80a1-efafd7e9888f.png" style="max-width: 100%;"></a></p>
